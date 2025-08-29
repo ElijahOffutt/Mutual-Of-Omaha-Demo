@@ -10,11 +10,21 @@
       </v-list>
     </v-navigation-drawer>
     <v-container>
-
+      <router-view />
     </v-container>
   </v-app>
 </template>
 
 <script lang="ts" setup>
-//
+
+interface Link {
+  id: string;
+  text: string;
+  link: string;
+}
+
+let links: Link[] = [
+
+]
+
 </script>
