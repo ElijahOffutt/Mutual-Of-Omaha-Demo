@@ -1,4 +1,4 @@
-# Mutual of Omaha Dashboard Demo 🎬👨‍🏫🚀
+# Mutual of Omaha Dashboard Demo 📅🎬🚀
 > *For the consideration of Mutual of Omaha by [Elijah Offutt](https://elijahoffutt.com)*
 ---
 **Ever feel like managing insurance is as much fun as untangling holiday lights? Not anymore.** This dashboard brings clarity, control, and maybe even a tad of joy to managing policies—because who said policy portals have to be dull?
@@ -8,12 +8,11 @@
 - 🧩 **Design Pattern**:  Left-side ranked-order navigation; right-side tabbed feature views (e.g., Policy Details, Billing, Claims, Resources).  
 - ⚙️ **Tech Stack**:  
   - 👨 **Frontend**: Vue => Framework + Pinia => State + Vuetify => Visual  
-  - 🧠 **Backend**: PHP 8 + Laravel  
-  - 🗃️ **Database**: SQLite (lightweight now—upgradeable when ambition strikes)
+  - 🧠 **Backend**: PHP 8 => Language + Laravel => Framework  
+  - 🗃️ **Database**: SQLite 
 
 ---
 ## 📋 Feature List
-
 ### 1. Policy Overview  
 **Specification**  
 - Displays active policies (Life, Medicare Supplement, Long-Term Care)  
